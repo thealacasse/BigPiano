@@ -19,6 +19,11 @@ En 1983, le Big Piano a reçu une reconnaissance nationale lorsqu'il a été pr�
 
 Remo Saraceni et sa philosophie de l'interaction humaine avec la technologie sont devenus de plus en plus intéressants pour le public et le Big Piano a commencé à être plus largement reconnu.
 
+Dans ses débuts, Saraceni y commercialisait la version une octave et demie du Big Piano, mais lorsque les producteurs du film Big on fait face à face avec, ils ont été immédiatement impressionnés et l'ont trouvé parfait pour une scène du film qui est maintenant rendu "iconic".
+
+
+
+
 
 
 
