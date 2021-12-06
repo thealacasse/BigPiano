@@ -21,6 +21,8 @@ Remo Saraceni et sa philosophie de l'interaction humaine avec la technologie son
 
 Dans ses débuts, Saraceni y commercialisait la version une octave et demie du Big Piano, mais lorsque les producteurs du film Big on fait face à face avec, ils ont été immédiatement impressionnés et l'ont trouvé parfait pour une scène du film qui est maintenant rendu "iconic".
 
+![big](https://user-images.githubusercontent.com/93718457/144941106-74381602-2baa-487d-bfa3-f57d70f7aada.jpg)
+
 
 
 
