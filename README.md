@@ -35,6 +35,8 @@ Dans ses débuts, Saraceni y commercialisait la version une octave et demie du B
 D'origine italienne il est un artiste, ingénieur et concepteur d'éclairage de renommée mondiale. Reconnu entre autres avec sa création
 Le Big Piano, mais ce n'est qu'une des nombreuses créations interactives de Remo qui relient l'imagination de l'enfance à la technologie du futur.
 
+Ses créations ont pour but d
+
 Il a contribué des œuvres d'art et des conceptions audiovisuelles-tactiles à de nombreuses expositions et collections privées. 
 
 Il a été chargé de créer des expositions de musée relatives à des sujets variés tels que les télécommunications internationales aux sciences biologiques et a de plus conçu une sculpture extérieure activée par l'énergie solaire pour Disneyland.
@@ -54,7 +56,7 @@ La combinaison unique d'intellect scientifique/multimédia et de capital créati
 
 ![remoclouds](https://user-images.githubusercontent.com/93718457/144964717-51f523c0-30b7-4b30-872f-971a21c7ab35.jpg)
 
-<img width="728" alt="Capture d’écran, le 2021-12-06 à 23 16 21" src="https://user-images.githubusercontent.com/93718457/144965362-928123eb-f093-4c5b-ae14-ce75e2c4a2b9.png">
+
 
 > Musical Clouds
 > Les nuages de Remo font partie des collections de grands musées et figurent dans la collection des Whitney Museums "High Styles: 100 years of American Design" aux côtés d'autres maîtres comme Tiffany, Frank Lloyd Wright et Frank Gehry. Mis à jour pour le 21e siècle, le Musical Cloud de Remo Saraceni est une révolution dans le design, fusionnant la lumière, le son et la sculpture en une seule forme.
