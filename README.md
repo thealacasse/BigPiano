@@ -27,7 +27,8 @@ Dans ses débuts, Saraceni y commercialisait la version une octave et demie du B
 
 
 
-## Le créateur du BigPiano
+## Le créateur de BigPiano
+![photo créateur](medias/
 Remo Saraceni, d'origine italienne, est un artiste, ingénieur et concepteur d'éclairage de renommée mondiale. Reconnu entre autres avec sa création
 Le Big Piano, mais ce n'est qu'une des nombreuses créations interactives de Remo qui relient l'imagination de l'enfance à la technologie du futur.
 
