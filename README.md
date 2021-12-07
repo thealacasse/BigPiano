@@ -44,7 +44,6 @@ Il a été chargé de créer des expositions de musée relatives à des sujets v
 ### Voici quelques autres exemples de créations interactives en lien avec le multimédia
 
 ![musicalstairs](https://user-images.githubusercontent.com/93718457/144964260-4779dbb6-195a-42e3-b841-5aaf92493995.jpg)
-
 > Musical Stairs' San Fransisco, California
 
 
@@ -52,7 +51,12 @@ Il a été chargé de créer des expositions de musée relatives à des sujets v
 
 ![remoclouds](https://user-images.githubusercontent.com/93718457/144964717-51f523c0-30b7-4b30-872f-971a21c7ab35.jpg)
 
+<img width="728" alt="Capture d’écran, le 2021-12-06 à 23 16 21" src="https://user-images.githubusercontent.com/93718457/144965362-928123eb-f093-4c5b-ae14-ce75e2c4a2b9.png">
+
 > Musical Clouds
+
+
+## Liens du multimédia et ses arts
 
 
 
