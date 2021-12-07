@@ -10,7 +10,9 @@ Saraceni concidérait ce projet comme une fusion de danse, musique, lumière et 
 
 Des versions du piano ont été installées dans des musées, des hôpitaux pour enfants et d'autres espaces publics du monde entier.
 
-<img width="352" alt="Capture d’écran, le 2021-12-06 à 18 08 02" src="https://user-images.githubusercontent.com/93718457/144937212-f5041b63-6fe5-40e4-8273-cadf6f90ba88.png">)
+<img width="352" alt="Capture d’écran, le 2021-12-06 à 18 08 02" src="https://user-images.githubusercontent.com/93718457/144937212-f5041b63-6fe5-40e4-8273-cadf6f90ba88.png">
+
+
 
 ## Son histoire
 Le BigPiano à été dévoilé en 1982, dans le studio interactif imaginatif de Saraceni, où la technologie de pointe a alimenté une créativité artistique illimitée et une science imaginative.
@@ -22,6 +24,18 @@ Remo Saraceni et sa philosophie de l'interaction humaine avec la technologie son
 Dans ses débuts, Saraceni y commercialisait la version une octave et demie du Big Piano, mais lorsque les producteurs du film Big on fait face à face avec, ils ont été immédiatement impressionnés et l'ont trouvé parfait pour une scène du film qui est maintenant rendu "iconic".
 
 ![big](https://user-images.githubusercontent.com/93718457/144941106-74381602-2baa-487d-bfa3-f57d70f7aada.jpg)
+
+
+
+## Le créateur du BigPiano
+Remo Saraceni, d'origine italienne, est un artiste, ingénieur et concepteur d'éclairage de renommée mondiale. Reconnu entre autres avec sa création
+Le Big Piano, mais ce n'est qu'une des nombreuses créations interactives de Remo qui relient l'imagination de l'enfance à la technologie du futur.
+
+Il a contribué des œuvres d'art et des conceptions audiovisuelles-tactiles à de nombreuses expositions et collections privées. 
+
+Il a été chargé de créer des expositions de musée relatives à des sujets variés tels que les télécommunications internationales aux sciences biologiques et a de plus conçu une sculpture extérieure activée par l'énergie solaire pour Disneyland.
+
+Voici quelques autres exemples de créations interactives en lien avec le multimédia
 
 
 
