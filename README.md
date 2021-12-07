@@ -62,21 +62,17 @@ La combinaison unique d'intellect scientifique/multimédia et de capital créati
 > Les nuages de Remo font partie des collections de grands musées et figurent dans la collection des Whitney Museums "High Styles: 100 years of American Design" aux côtés d'autres maîtres comme Tiffany, Frank Lloyd Wright et Frank Gehry. Mis à jour pour le 21e siècle, le Musical Cloud de Remo Saraceni est une révolution dans le design, fusionnant la lumière, le son et la sculpture en une seule forme.
 
 
-## La création de BigPiano
-> LES SONS
-
-Ceux-ci sont créés de manière analogique à l'aide de circuits électroniques à comportement continu et de manière numérique à l'aide de circuits numériques, qu'il a du dissimuler dans les touches lumineuse, créeant alors du son lorsqu'il y a du poid dessus.
-
-
 
 ## En quoi ce piano propose une expérience différente d'un piano traditionnel?
 Le Big Piano est un synthétiseur est un instrument de musique électronique capable de créer et de moduler des sons sous forme de signal électrique. Il peut être utilisé pour imiter, avec plus ou moins de réalisme, des instruments de musique traditionnels, des bruits naturels ou encore pour créer des sonorités complètement originales.
 
 Contrairement à un piano à corde, cet instrument directement sortit de l'ordinaire est le plus grand Big Piano jamais fabriqué. Touches lumineuses complètes de six octaves 72 - près de 24 pieds de long ! Conçu pour les espaces géants, ce Big Piano stimule des expériences sociales incroyables. On peut utiliser le Big Piano pour un large éventail d'événements d'amusement à l'intérieur ou à l'extérieur.
 
+Les sons sont créés de manière analogique à l'aide de circuits électroniques à comportement continu et de manière numérique à l'aide de circuits numériques, qu'il a du dissimuler dans les touches lumineuse, créeant alors du son lorsqu'il y a du poid dessus.
+
 Le but de cette création est de faire bouger tout son corps et à l'aide de nos pieds, sauter sur les touches pour créer une mélodie rythmée avec ta familles ou tes ami(e)s. Une oeuvre interactives qui relient l'imaginaire de l'enfance à la technologie du futur. 
 
-Le mélange de jeu de lumière, de son et la grandiosité du BigPiano donne une expérience unique et une joie de vivre inconditionel.
+Le mélange de jeu de lumière, de son et la grandiosité du BigPiano donne une expérience unique et une joie de vivre inconditionel à chaque personne qui interctacte avec ses créations.
 
 
 
