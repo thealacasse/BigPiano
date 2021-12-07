@@ -1,4 +1,4 @@
-# BigPiano
+# Walking piano (BigPiano)
 ![giphy](https://user-images.githubusercontent.com/93718457/144934931-56b4d2f9-dde3-4bdd-b520-394b22681a37.gif)
 
 ## À propos de BigPiano
@@ -46,7 +46,7 @@ La combinaison unique d'intellect scientifique/multimédia et de capital créati
 
 ### Voici quelques autres exemples de créations interactives en lien avec le multimédia
 
-![musicalstairs](https://user-images.githubusercontent.com/93718457/144964260-4779dbb6-195a-42e3-b841-5aaf92493995.jpg)
+![musicalstairspier39](https://user-images.githubusercontent.com/93718457/145087599-5226bf65-7bb8-44a8-a391-92348d3591cd.jpeg)
 > Musical Stairs' San Fransisco, California
 
 
