@@ -39,9 +39,21 @@ Il a contribué des œuvres d'art et des conceptions audiovisuelles-tactiles à 
 
 Il a été chargé de créer des expositions de musée relatives à des sujets variés tels que les télécommunications internationales aux sciences biologiques et a de plus conçu une sculpture extérieure activée par l'énergie solaire pour Disneyland.
 
-Voici quelques autres exemples de créations interactives en lien avec le multimédia
 
-![musicalstairs]
+
+### Voici quelques autres exemples de créations interactives en lien avec le multimédia
+
+![musicalstairs](https://user-images.githubusercontent.com/93718457/144964260-4779dbb6-195a-42e3-b841-5aaf92493995.jpg)
+
+> Musical Stairs' San Fransisco, California
+
+
+
+
+![remoclouds](https://user-images.githubusercontent.com/93718457/144964717-51f523c0-30b7-4b30-872f-971a21c7ab35.jpg)
+
+> Musical Clouds
+
 
 
 
