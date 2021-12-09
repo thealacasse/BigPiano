@@ -6,7 +6,7 @@ Sans doute le piano le plus célèbre en raison de sa scène mémorable dans le 
 
 "The Walking Piano" ou "Big Piano" a été créé par Remo Saraceni et installé pour la première fois dans le magasin de jouets FAO Schwarz à New York, en 1982.
 
-Saraceni concidérait ce projet comme une fusion de danse, musique, lumière et de jeu en utilisant les pieds pour créer une mélodie.
+Le créateur concidérait ce projet comme une fusion de danse, musique, lumière et de jeu en utilisant les pieds pour créer une mélodie.
 
 Des versions du piano ont été installées dans des musées, des hôpitaux pour enfants et d'autres espaces publics du monde entier.
 
