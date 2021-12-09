@@ -73,14 +73,3 @@ Les sons sont créés de manière analogique à l'aide de circuits électronique
 Le but de cette création est de faire bouger tout son corps et à l'aide de nos pieds, sauter sur les touches pour créer une mélodie rythmée avec ta familles ou tes ami(e)s. Une oeuvre interactives qui relient l'imaginaire de l'enfance à la technologie du futur. 
 
 Le mélange de jeu de lumière, de son et la grandiosité du BigPiano donne une expérience unique et une joie de vivre inconditionel à chaque personne qui interctacte avec ses créations.
-
-
-
-
-
-
-
-
-
-
-
